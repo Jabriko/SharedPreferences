@@ -74,5 +74,7 @@ public class MainActivity extends AppCompatActivity {
         editor.apply();
 
         Toast.makeText(this, "Data Saved", Toast.LENGTH_SHORT).show();
+        
+        //Fungsi toast adalah untuk memberikan pesan singkat kepada user
     }
 }
